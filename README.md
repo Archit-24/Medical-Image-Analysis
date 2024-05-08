@@ -37,3 +37,5 @@ As this project is designed to run on Google Colab, there is no traditional inst
 3. Visualize the results and interpret the model predictions.
 4. Modify the notebook as needed for experimentation and further analysis.
 
+# Team Member
+- [Abhinav Kumar](https://github.com/Abhinav7982)
