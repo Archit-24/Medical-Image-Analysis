@@ -1,7 +1,7 @@
 # Medical Image Analysis Project
 
 This Python project focuses on medical image analysis using machine learning techniques. It aims to analyze a dataset of medical images along with their respective ground truth labels. The project is implemented in Python and designed to run on Google Colab, making it accessible and scalable for medical image analysis tasks.
-
+![image](https://github.com/Archit-24/Medical-Image-Analysis/assets/155532480/c4b99271-f509-4851-b817-984582b30c4c)
 ## Features
 
 - **Medical Image Analysis**: Analyzes medical images to extract features and make predictions.
